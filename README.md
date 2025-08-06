@@ -22,9 +22,9 @@ This is a basic Object-Oriented Python project simulating a hospital management 
 
 1. Clone the repo:
    ```bash
-    git clone https://github.com/B1b1-Zainab/OOP-Mini-Hospital-Day-01.git
+   git clone https://github.com/B1b1-Zainab/OOP-Mini-Hospital-Day-01.git
    cd OOP-Mini-Hospital-Day-01
-
+   
 2. Run the Python file:
 
 python hospitalmngmnt.py
